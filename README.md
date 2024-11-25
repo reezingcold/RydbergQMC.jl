@@ -75,7 +75,7 @@ end
 end
 ```
 The ground energy calculated by QMC is getting closer to ED result as the samples increase.
-
+![finiteT_result](https://github.com/reezingcold/RydbergQMC.jl/blob/main/figures/mc_finiteT_test.png)
 
 ## Zero Temperature Stochastic Series Expansion (zero_temperature_sse)
 Here is a basic example.
@@ -139,6 +139,7 @@ plt.close()
 end
 ```
 The ground energy calculated by Projective QMC is getting closer to ED result as the samples increase.
+![zeroT_result](https://github.com/reezingcold/RydbergQMC.jl/blob/main/figures/mc_zeroT_test.png)
 
 
 
