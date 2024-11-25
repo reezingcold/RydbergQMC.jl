@@ -5,7 +5,7 @@ A Julia package for doing quantum Monte Carlo in Rydberg atom systems.
 This package is written based on [this paper](https://scipost.org/SciPostPhysCore.7.2.016/pdf). It is better to read the paper before using 
 this package. 
 The basic functionality of this package has been completed but many interfaces are not implemented yet so at this stage this package is not 
-user-friendly to use. 
+friendly to use. 
 
 ## Dependencies
 This package requires [StatsBase.jl](https://juliastats.org/StatsBase.jl/stable/). Other packages, including 
